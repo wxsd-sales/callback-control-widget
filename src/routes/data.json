@@ -1,0 +1,2057 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_1stLevel_GWKKulanz_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Handel_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_2ndLevel_Product_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback2_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_ConnectedDrive_TeleService_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Direktgeschaeft_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "name": "GP_BMW_CIC_Jawa_Callback_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_Jawa_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_Jawa_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "name": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_JawaMiete_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_JawaMiete_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_SonderServiceLines_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_SonderServiceLines_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+      "section": "",
+      "key": "",
+      "value": "",
+      "2023-11-03": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      },
+      "2023-11-04": {
+        "details": [
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-10to11",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-11to12",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-12to13",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-13to14",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-14to15",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-15to16",
+            "value": 2
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-16to17",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-17to18",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-18to19",
+            "value": 0
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-Friday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-Monday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-Saturday",
+            "value": false
+          },
+          {
+            "name": "GP_BMW_CIC_WelcomeCall_Callback_IQ/callback-capacity",
+            "section": "GP_BMW_CIC_WelcomeCall_Callback_IQ",
+            "key": "callback-capacity-Sunday",
+            "value": false
+          }
+        ]
+      }
+    }
+  ],
+  "requestedCallbacks": []
+}
